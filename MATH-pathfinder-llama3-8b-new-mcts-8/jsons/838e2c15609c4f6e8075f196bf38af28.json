@@ -1,0 +1,44 @@
+{
+    "query": "The earth rotates at a constant rate and rotates 360 degrees in one day. How many degrees does it rotate in one hour?",
+    "ground_truth": "Since there are 24 hours in a day, in one hour the Earth rotates $1/24$ of the amount it rotates in a day, or $360/24=\\boxed{15}$ degrees.",
+    "hints_list": [],
+    "answers_list": [
+        "[Reasoning Process]\nTo find out how many degrees the Earth rotates in one hour, we first need to understand that if it completes 360 degrees in a full day (24 hours), we can divide the total degrees by the number of hours to get the degrees per hour.\n\n[Calculation]\nTotal degrees in a day = 360 degrees\nTotal hours in a day = 24 hours\nDegrees per hour = Total degrees / Total hours = 360 / 24\n\n[Verification]\nPerforming the division gives us the exact number of degrees the Earth rotates per hour. \n\n[Calculation Result]\n360 / 24 = 15\n\nTherefore, the Earth rotates 15 degrees in one hour.\n\n[Final Answer] The answer is 15 \n#### 15",
+        "I don't know the answer to this question."
+    ],
+    "ground_truth_hints": "",
+    "hints_prompt": "Question: The earth rotates at a constant rate and rotates 360 degrees in one day. How many degrees does it rotate in one hour?\nCould you provide me with the thought process to solve this problem, but please don’t give me the answer or calculation, just the thought process?",
+    "to_explore": [
+        "[Reasoning Process]\nTo find out how many degrees the Earth rotates in one hour, we first need to understand that if it completes 360 degrees in a full day (24 hours), we can divide the total degrees by the number of hours to get the degrees per hour.\n\n[Calculation]\nTotal degrees in a day = 360 degrees\nTotal hours in a day = 24 hours\nDegrees per hour = Total degrees / Total hours = 360 / 24\n\n[Verification]\nPerforming the division gives us the exact number of degrees the Earth rotates per hour. \n\n[Calculation Result]\n360 / 24 = 15\n\nTherefore, the Earth rotates 15 degrees in one hour.\n\n[Final Answer] The answer is 15 \n#### 15",
+        "I don't know the answer to this question."
+    ],
+    "to_explore_reward": {
+        "[Reasoning Process]\nTo find out how many degrees the Earth rotates in one hour, we first need to understand that if it completes 360 degrees in a full day (24 hours), we can divide the total degrees by the number of hours to get the degrees per hour.\n\n[Calculation]\nTotal degrees in a day = 360 degrees\nTotal hours in a day = 24 hours\nDegrees per hour = Total degrees / Total hours = 360 / 24\n\n[Verification]\nPerforming the division gives us the exact number of degrees the Earth rotates per hour. \n\n[Calculation Result]\n360 / 24 = 15\n\nTherefore, the Earth rotates 15 degrees in one hour.\n\n[Final Answer] The answer is 15 \n#### 15": [
+            80.0
+        ],
+        "I don't know the answer to this question.": [
+            -85.0
+        ]
+    },
+    "hints_bank": {},
+    "history_bank": {
+        "[Reasoning Process]\nTo find out how many degrees the Earth rotates in one hour, we first need to understand that if it completes 360 degrees in a full day (24 hours), we can divide the total degrees by the number of hours to get the degrees per hour.\n\n[Calculation]\nTotal degrees in a day = 360 degrees\nTotal hours in a day = 24 hours\nDegrees per hour = Total degrees / Total hours = 360 / 24\n\n[Verification]\nPerforming the division gives us the exact number of degrees the Earth rotates per hour. \n\n[Calculation Result]\n360 / 24 = 15\n\nTherefore, the Earth rotates 15 degrees in one hour.\n\n[Final Answer] The answer is 15 \n#### 15": [
+            "Question: The earth rotates at a constant rate and rotates 360 degrees in one day. How many degrees does it rotate in one hour?\nThe response should begin with [reasoning process]...[Verification]... and end with \"[Final Answer] The answer is [number] \\n#### [number]\"\nLet's think step by step.",
+            "[Reasoning Process]\nTo find out how many degrees the Earth rotates in one hour, we first need to understand that if it completes 360 degrees in a full day (24 hours), we can divide the total degrees by the number of hours to get the degrees per hour.\n\n[Calculation]\nTotal degrees in a day = 360 degrees\nTotal hours in a day = 24 hours\nDegrees per hour = Total degrees / Total hours = 360 / 24\n\n[Verification]\nPerforming the division gives us the exact number of degrees the Earth rotates per hour. \n\n[Calculation Result]\n360 / 24 = 15\n\nTherefore, the Earth rotates 15 degrees in one hour.\n\n[Final Answer] The answer is 15 \n#### 15"
+        ],
+        "I don't know the answer to this question.": [
+            "Question: The earth rotates at a constant rate and rotates 360 degrees in one day. How many degrees does it rotate in one hour?\nThe response should begin with [reasoning process]...[Verification]... and end with \"[Final Answer] The answer is [number] \\n#### [number]\"\nLet's think step by step.",
+            "I don't know the answer to this question."
+        ]
+    },
+    "hints_reward_imp_bank": {},
+    "fathers": {
+        "[Reasoning Process]\nTo find out how many degrees the Earth rotates in one hour, we first need to understand that if it completes 360 degrees in a full day (24 hours), we can divide the total degrees by the number of hours to get the degrees per hour.\n\n[Calculation]\nTotal degrees in a day = 360 degrees\nTotal hours in a day = 24 hours\nDegrees per hour = Total degrees / Total hours = 360 / 24\n\n[Verification]\nPerforming the division gives us the exact number of degrees the Earth rotates per hour. \n\n[Calculation Result]\n360 / 24 = 15\n\nTherefore, the Earth rotates 15 degrees in one hour.\n\n[Final Answer] The answer is 15 \n#### 15": null,
+        "I don't know the answer to this question.": null
+    },
+    "childs": {
+        "[Reasoning Process]\nTo find out how many degrees the Earth rotates in one hour, we first need to understand that if it completes 360 degrees in a full day (24 hours), we can divide the total degrees by the number of hours to get the degrees per hour.\n\n[Calculation]\nTotal degrees in a day = 360 degrees\nTotal hours in a day = 24 hours\nDegrees per hour = Total degrees / Total hours = 360 / 24\n\n[Verification]\nPerforming the division gives us the exact number of degrees the Earth rotates per hour. \n\n[Calculation Result]\n360 / 24 = 15\n\nTherefore, the Earth rotates 15 degrees in one hour.\n\n[Final Answer] The answer is 15 \n#### 15": [],
+        "I don't know the answer to this question.": []
+    },
+    "ucb_bank": {}
+}
