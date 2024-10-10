@@ -24,7 +24,7 @@ import random
 # MODEL_NAME = 'google/gemma-1.1-7b-it'
 # MODEL_NAME = 'test-lora'
 # MODEL_NAME = '/home/bingxing2/ailab/group/ai4phys/EXPORT/new_mistral_7b_4'
-MODEL_NAME = ''
+MODEL_NAME = 'llama3.1:70b'
 
 
 # DATA_NAME = 'meta-math-40k-pathfinder-mistral7B'
@@ -45,7 +45,7 @@ MODEL_NAME = ''
 # DATA_NAME = 'AIME-pathfinder-llama3-8b-mcts-2'
 # DATA_NAME = 'gsm8k-testtime-pathfinder-mistral7B-mcts-2'
 # DATA_NAME = 'gsm8k-testtime-pathfinder-pureseq-mistral7B-5'
-DATA_NAME = ''
+DATA_NAME = 'MATH-pathfinder-llama3-8b-new-mcts-8'
 
 if MODEL_NAME == '':
     MODEL_NAME = sys.argv[1]
